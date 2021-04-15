@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @premkumar5951
 - 👀 I’m interested in WEB TECHONOLOGIES!
 - 🌱 I’m currently learning BACKEND USING DJANGO!
-- 💞️ Available for collab,any time :)
+- 💞️ Always ready to explore and try new things:)
 - 📫 Reach me at premofdbapatna@gmail.com
 - ✨ linkdin=> https://www.linkedin.com/in/prem-kumar-0520711a7
 
