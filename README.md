@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @premkumar5951
-- 👀 I’m interested in WEB TECHONOLOGIES!
-- 🌱 Frontend | reactjs | Backend | MERN
+- 👀 Full Stack Intern @SBNRI
+- 🌱 Frontend | reactjs | Backend | Django | MERN
 - 💞️ Always ready to explore and try new things:)
 - 📫 Reach me at premofdbapatna@gmail.com
 - ✨ linkdin=> https://www.linkedin.com/in/prem-kumar-0520711a7
